@@ -60,8 +60,8 @@
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
-  <remove-project name="platform/hardware/qcom/bt" />
-  <remove-project name="platform/hardware/qcom/display" />
+  <!-- <remove-project name="platform/hardware/qcom/bt" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/display" /> -->
   <remove-project name="platform/hardware/qcom/gps" />
   <remove-project name="platform/hardware/qcom/media" />
   <remove-project name="platform/hardware/qcom/msm8960" />
@@ -77,7 +77,7 @@
   <remove-project name="platform/hardware/qcom/sdm845/media" />
   <remove-project name="platform/hardware/qcom/power" />
 
-  <remove-project name="kernel/tests" />
+  <!-- <remove-project name="kernel/tests" /> -->
 
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Browser2" />
